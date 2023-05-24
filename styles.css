@@ -1,0 +1,40 @@
+#arrow {
+    float: right;
+}
+
+form {
+    margin: 100px;
+    text-align: center;
+}
+
+input {
+    display: block;
+    font-size: 2px;
+    width: 300px;
+    height: 40px;
+    margin: 0 auto 1em auto;
+    margin-bottom: 1em;
+}
+
+button {
+    background-color: #333;
+    border: 0px;
+    border-radius: 5px;
+    text-align: left;
+    font-size: 2rem;
+    min-width: 400px;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #666;
+    text-align: left; 
+}
+
+button:focus {
+    background-color: #888;
+}
+
+span {
+    background-color: white;
+}
